@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 })
 export class NovaTransferenciaComponent {
 
-   valor: number = 23;
-   destino: number = 22;
+   valor: number = 22;
+   destino: number = 33;
 
   transf(){
     console.log("transferencia feita com sucesso");
